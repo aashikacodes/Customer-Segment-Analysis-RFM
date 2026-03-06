@@ -11,6 +11,7 @@ The analysis includes **data cleaning, exploratory data analysis (EDA), RFM scor
 ## Dataset
 
 The dataset used in this project is the **Online Retail dataset**, which contains transaction records for an online retail store.
+https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
 
 ### Key Features
 
